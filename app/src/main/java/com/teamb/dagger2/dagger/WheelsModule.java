@@ -1,5 +1,9 @@
-package com.teamb.dagger2;
+package com.teamb.dagger2.dagger;
 
+
+import com.teamb.dagger2.car.Rims;
+import com.teamb.dagger2.car.Tires;
+import com.teamb.dagger2.car.Wheels;
 
 import dagger.Module;
 import dagger.Provides;

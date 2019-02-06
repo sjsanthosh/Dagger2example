@@ -1,4 +1,4 @@
-package com.teamb.dagger2;
+package com.teamb.dagger2.car;
 
 import javax.inject.Inject;
 

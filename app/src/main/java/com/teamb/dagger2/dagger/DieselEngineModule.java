@@ -1,9 +1,11 @@
-package com.teamb.dagger2;
+package com.teamb.dagger2.dagger;
 
+
+import com.teamb.dagger2.car.DieselEngine;
+import com.teamb.dagger2.car.Engine;
 
 import dagger.Binds;
 import dagger.Module;
-import dagger.Provides;
 
 @Module
 public abstract class DieselEngineModule {

@@ -1,6 +1,8 @@
-package com.teamb.dagger2;
+package com.teamb.dagger2.car;
 
 import android.util.Log;
+
+import com.teamb.dagger2.car.Car;
 
 import javax.inject.Inject;
 

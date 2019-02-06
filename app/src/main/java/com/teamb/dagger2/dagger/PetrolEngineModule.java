@@ -11,6 +11,6 @@ import dagger.Module;
 public abstract class PetrolEngineModule {
 
     @Binds
-    abstract Engine provideEngine(PetrolEngine engine) ;
+    abstract Engine BindEngine(PetrolEngine engine) ;
 
 }
